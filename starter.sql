@@ -8,15 +8,3 @@ CREATE TABLE Student (
     Gender VARCHAR2(10),
     DepartmentID NUMBER(5)
 );
-
--- Write a PL/SQL procedure named INSERT_STUDENT
--- to insert a student record into the Student table.
-
--- Your procedure should accept:
--- StudentID
--- StudentName
--- DOB
--- Gender
--- DepartmentID
-
--- Write your procedure here.
